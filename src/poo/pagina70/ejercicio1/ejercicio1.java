@@ -25,11 +25,10 @@ public class ejercicio1  {
 
                 double numero = Double.parseDouble(entrada);
 
-                // Acumuladores y contadores
                 sumaTotal += numero;
                 contadorTotal++;
 
-                // Validamos si es positivo (mayor estricto que cero)
+
                 if (numero > 0) {
                     contadorPositivos++;
                 }
