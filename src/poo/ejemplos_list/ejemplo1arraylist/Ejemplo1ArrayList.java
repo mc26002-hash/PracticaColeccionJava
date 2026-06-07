@@ -1,9 +1,8 @@
 package poo.ejemplos_list.ejemplo1arraylist;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Main {
+public class Ejemplo1ArrayList {
     public static void main(String[] args) {
         //declarar la colección
         ArrayList lista = new ArrayList();
